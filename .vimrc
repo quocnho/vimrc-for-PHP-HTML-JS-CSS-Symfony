@@ -2,7 +2,7 @@
 if has('mouse')
     set mouse=a
 endif
-autocmd VimEnter * echo "Ctr+e: Recent files | Ctr+n: Toggle Tree | F2: Save | F3: Save & Exit"
+autocmd VimEnter * echo "Ctr+e: Recent files | Ctr+n: Toggle Tree | F2: Save | F3: Save & Exit | F4: Exit"
 set nu rnu
 scriptencoding utf-8
 set encoding=utf-8
